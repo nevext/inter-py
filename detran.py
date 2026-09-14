@@ -3,6 +3,8 @@ def interpolar(lista, alvo):
     alvo_convertido = placa_para_numero(alvo) #Converteremos o nosso alvo do tipo string em número
     inicio = 0 #Definimos o limite inferior
     fim = len(lista) - 1 #Definimos o limite superior
+    rodada = 0
+    operacoes = 0 #ainda vou colocar as operacoes (david)
 
     while inicio <= fim: # Aqui começa o algoritmo de Busca por Interpolação
         posição_estimada = inicio + (
