@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Equipe
 
 Nome: **David Neves**
@@ -25,3 +26,6 @@ Nome: **Yara Vaz da Silva**
 
 
  
+=======
+aa
+>>>>>>> e4f0d6f7c9af811490cbd77448a3fec156f7ea9d
