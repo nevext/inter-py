@@ -1,0 +1,7 @@
+git init no terminal so e necessario se n tiver feito a creation via github desktop
+
+git add ja precia pra pegar os arquivos que e iubnckluir no prox commit
+
+git commit bom autoexplciativo
+
+git push envia o historico do cmmit para o git
