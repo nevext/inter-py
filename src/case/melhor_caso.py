@@ -32,4 +32,4 @@ def busca_inter(lista, alvo):
 
 list_numeros = [10,20,30,40,50,60,70,80,90,100]
 
-busca_inter(list_numeros, 67)
+busca_inter(list_numeros, 70)
