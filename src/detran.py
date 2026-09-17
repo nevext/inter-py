@@ -46,6 +46,7 @@ def placa_para_numero(placa):
 
 def main():
     lista_placa = ["FPM2N55", "EIP3N89", "AZM8I40", "EGT9E69", "PSQ0Z26", "MBM2L92", "TRY3A91"] #Lista de Placas
+    #lista de placas para pior caso ["AZZ9Z99", "BAA0A00", "CAA0A01", "DAA0A02", "EAA0A03", "FAA0A04", "ZZZ9Z99"]
     buscar = "ORE5N12" #Nosso alvo para buscar a placa no "banco de dados"
     print(sorted(lista_placa))
     lista_numerica = [placa_para_numero(placa) for placa in lista_placa] #para toda placa na lista de placas, chamará a função "placa_para_número" a partir do índice 0
